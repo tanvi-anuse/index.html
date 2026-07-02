@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MAHAVITARAN - Online Problem Solving Project</title>
+</head>
+<body>
+
+    <!-- 1 & 2: Header and Body Section -->
+    <center>
+        <h3><b>MAHAVITARAN</b></h3>
+        <h1>Online Problem Solving Project</h1>
+    </center>
+    
+    <p align="center">
+        In this digital world, our company is also digitalizing. 
+        Tell your electronic problems to us, and we will come and solve them!
+    </p>
+
+    <hr size="3" color="black">
+
+    <!-- 3: Contact Page Section -->
+    <h2 align="center">Contact Page</h2>
+    <p align="center">
+        Contact us on: <b>91 XXXXXXXX</b><br>
+        Email: <b>mahavitarnprombleslove@gmail.com</b>
+    </p>
+
+    <hr size="3" color="black">
+
+    <!-- 4: Joining Group Page Section -->
+    <h2 align="center">Joining Group Page</h2>
+    <p align="center">
+        To join our group:<br>
+        Send your <b>Contact Number</b>, <b>Email</b>, and <b>Name</b> on our email or contact number.
+    </p>
+
+    <hr size="3" color="black">
+
+    <!-- 5: Help Section -->
+    <h2 align="center">Help</h2>
+    <p align="center">
+        For any help, contact the contact number or email.
+    </p>
+
+    <hr size="3" color="black">
+
+    <!-- Footer Tagline -->
+    <br>
+    <h3 align="center"><i>Your Problems, Our Responsibility.</i></h3>
+
+</body>
+</html>
